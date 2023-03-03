@@ -1,6 +1,6 @@
 <template>
 <div>
-  搜索内容，进本地的localStorage，
+  搜索内容，进本地的localStorage，di
 </div>
 </template>
 
