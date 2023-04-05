@@ -27,6 +27,8 @@ function loading(el, binding){
     }
     window.addEventListener("scroll",throttle(loadMore))
 }
+
+
 export default {
     bind(el, binding){
         loading(el, binding)
